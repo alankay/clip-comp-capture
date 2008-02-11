@@ -7,6 +7,5 @@ A sleek video contest entry capture page built with **vanilla HTM and CSSL**.
 <p align="center">
 <img src="img/screenshot.png" alt="Video contest capture page screenshot" />
 </p>
-![Video contest capture page screenshot](img/screenshot.png)
 
 ---
