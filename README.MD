@@ -4,4 +4,6 @@
 
 A sleek video contest entry capture page built with **vanilla HTM and CSSL**.  
 
+![Video contest capture page screenshot](img/screenshot.png)
+
 ---
