@@ -1,0 +1,38 @@
+body { margin: 0; padding: 0; background-color: #eee; font-size: 1em; line-height: 160%; font-family:Arial, Helvetica, sans-serif; color:#000; text-align: center; }
+#page { text-align: left; margin: 0em auto; padding: 20px; width: 600px; background-color: #fff; border: 1px solid #ccc; }
+h1 { font-size: 200%; margin: 20px 0 40px 0; text-align: center; letter-spacing: -2px }
+h2 { font-size: 120%; margin: 10px 0 10px 0; }
+form { margin: 10px 0 30px 0; padding: 0; }
+ul, ol { margin: 10px 0 20px 20px; padding: 0; }
+ul li, ol li { list-style-type: none; color: #777; margin: 3px 0 0; padding: 0; }
+ul li:before { content: "\00BB \0020"; }
+input { margin: 0; padding: 0; }
+textarea { font-size: 90%; margin: 0; padding: 2px; }
+code { font-size: 110%; color: green; }
+img, a img { border: none; }
+fieldset { margin: 0; padding: 10px; border: 1px solid #ccc; }
+legend { color: #666; }
+input.but { background-color: #eee; border: 1px solid #ccc; padding: 2px; cursor: pointer; }
+input.but:hover { background: #eee; border: 1px solid #000; }
+a:link, a:visited { color: blue; text-decoration: none; }
+a:hover { color: red; text-decoration: underline; }
+fieldset { border: none; }
+
+.centre{ text-align:center; }
+.gold { color: rgb(200,175,100); }
+
+form { width: 500px; margin: 0em auto; text-align:center; overflow: hidden; }
+form dl dt { clear:both; width:31%; float:left; text-align: right;  padding: .5em 0em;}
+form dl dt label {  font-size: 1.25em; }
+form dl dt.submit { width: 450px; margin: 0em auto; } 
+form button {  background-image: url(../img/ico-tick.png); background-position: .25em .25em; background-repeat: no-repeat; width: 450px; margin: 0em auto; padding: .25em; font-size: 150%; font-weight: bold; cursor:pointer; text-align:center; } 
+form button:hover { background-color : rgb(50,150,0); color: rgb(255,255,255)  }
+form dl dt.privacy_policy { width: 100%; font-size: .85em; } 
+form dl dd { float:left; width:68%; margin: 0em 0em 0.5em 0.25em; }
+form dl dd input, form dl dd select { background-color: rgb(245,245,245); color: rgb(200,200,200); padding: .5em; width: 230px; font-size: 1.25em; box-sizing: border-box; }
+form dl dd input:hover, form.infusion_optin dl dd input:focus { background-color: rgb(255,255,255); color : rgb(0,0,0); }
+
+/* ------------------ #disclaimer ------------------ */
+#disclaimer {  text-align:center; margin-top: 3em; }
+#disclaimer p { margin: 0em; color: rgb(150,150,150);  }
+#disclaimer a { color: rgb(150,150,150); font-weight: normal; text-decoration: none; }
